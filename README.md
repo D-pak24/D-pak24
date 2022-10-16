@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Deepak
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dpak24dpak@gmail.com
 
 <!---
